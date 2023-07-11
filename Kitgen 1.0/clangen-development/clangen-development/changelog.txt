@@ -1,0 +1,4 @@
+<strong>Kitgen v0.1</strong>
+- Welcome to kitgen!
+- Released the mod
+- Please let me know of any bugs or unfitting text in mod library in the clangen discord
